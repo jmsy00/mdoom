@@ -1,0 +1,16 @@
+
+;; ----- amx-history -----
+(
+ doom/reload
+ cd
+ 5x5
+ amx
+ arp
+ dbx
+ dig
+)
+
+;; ----- amx-data -----
+(
+ (doom/reload . 1)
+)
